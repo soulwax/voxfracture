@@ -1,0 +1,11 @@
+name: voxfracture
+description: "Pure Dart 3D mesh half-space plane slicing with watertight cap triangulation, seeded Voronoi cell shattering, and structural anchor support collapse graphs."
+version: 0.1.0
+repository: https://github.com/soulwax/voxfracture
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
